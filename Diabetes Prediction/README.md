@@ -13,7 +13,13 @@ This project predicts whether a patient is likely to have diabetes based on diag
 
 ## 🚀 How to Run
 1. Clone the repo
-2. Install dependencies  
+   ```bash
+   git clone https://github.com/MoumitaBasu/MachineLearningProjects/tree/main/Diabetes%20Prediction
+   ```
+2. Install dependencies
+   ```bash
+   pip install -r requirements.txt
+   ```  
 3. Run the notebook or script to train the model
 
 ## 📊 Model Performance
