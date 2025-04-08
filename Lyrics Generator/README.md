@@ -15,7 +15,13 @@ This project trains an LSTM neural network to generate song lyrics in the style 
 
 ## 🚀 How to Run
 1. Clone the repo
-2. Install dependencies  
+   ```bash
+   git clone https://github.com/MoumitaBasu/MachineLearningProjects/tree/main/Lyrics%20Generator
+   ```
+2. Install dependencies
+   ```bash
+   pip install -r requirements.txt
+   ```  
 3. Place your training text in `data/lyrics.txt`
 4. Run the notebook or script to train and generate text
 
