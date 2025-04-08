@@ -27,7 +27,7 @@ This project predicts MBTI personality types (e.g., INTJ, ENFP) from text using 
 - Best model: Logistic Regression with TF-IDF
 
 ## 🧠 Libraries Used
-- pandas, numpy, sklearn
+- pandas, numpy, sklearn, yellowbrick
 - nltk, re, seaborn, matplotlib
 
 ---
