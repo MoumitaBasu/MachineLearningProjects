@@ -14,7 +14,7 @@ This project predicts MBTI personality types (e.g., INTJ, ENFP) from text using 
 ## 🚀 How to Run
 1. Clone the repo
    ```bash
-    git clone https://github.com/MoumitaBasu/MachineLearningProjects.git
+    git clone https://github.com/MoumitaBasu/MachineLearningProjects/tree/main/Personality%20Prediction
     ```
 2. Install dependencies
    ```bash
