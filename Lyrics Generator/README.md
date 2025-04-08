@@ -29,6 +29,8 @@ This project trains an LSTM neural network to generate song lyrics in the style 
 - TensorFlow / Keras
 - NumPy
 - Matplotlib
+- Pronouncing
+- Markovify
 
 ---
 
